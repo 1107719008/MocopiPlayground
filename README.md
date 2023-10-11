@@ -1,6 +1,7 @@
 # MocopiPlayground
-
+This is a project for testing mocopi with unity.
 # Mocopi 動捕裝置
+透過 mocopi 裝置來實現操作遊戲場景中的人物以及控制物件。
 
 News :
 
